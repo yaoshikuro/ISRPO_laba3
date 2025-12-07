@@ -1,0 +1,14 @@
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\obj\Debug\net8.0\laba_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\obj\Debug\net8.0\laba_3.AssemblyInfoInputs.cache
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\obj\Debug\net8.0\laba_3.AssemblyInfo.cs
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\obj\Debug\net8.0\laba_3.csproj.CoreCompileInputs.cache
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\bin\Debug\net8.0\laba_3.exe
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\bin\Debug\net8.0\laba_3.deps.json
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\bin\Debug\net8.0\laba_3.runtimeconfig.json
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\bin\Debug\net8.0\laba_3.dll
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\bin\Debug\net8.0\laba_3.pdb
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\obj\Debug\net8.0\laba_3.dll
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\obj\Debug\net8.0\refint\laba_3.dll
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\obj\Debug\net8.0\laba_3.pdb
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\obj\Debug\net8.0\laba_3.genruntimeconfig.cache
+C:\Users\Salmanch\Desktop\сделанные\исрпо\laba_3\laba_3\obj\Debug\net8.0\ref\laba_3.dll
